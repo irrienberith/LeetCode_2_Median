@@ -25,3 +25,5 @@ public class Solution {
         return 0;
     }
 }
+
+//2014.10.18 too tired to code   -10pts
